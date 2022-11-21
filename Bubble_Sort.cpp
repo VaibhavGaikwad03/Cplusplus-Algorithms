@@ -20,7 +20,7 @@ Array::Array(int arrsize)       //allocating resources
     this->Arr = new int[arrsize];
 }
 
-void Array::swap(int *p, int *q)    //for swap the array elements
+void Array::swap(int *p, int *q)    //for swapping the array elements
 {
     int temp = 0;
 
