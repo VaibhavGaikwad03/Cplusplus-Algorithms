@@ -6,7 +6,7 @@ class Array
     public :
         int *Arr;
         int size;
-
+ 
         Array(int);
         void swap(int *, int *);
         void accept();
