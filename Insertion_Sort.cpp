@@ -3,7 +3,7 @@
 using std::cin;
 using std::cout;
 using std::vector;
-
+ 
 void insertion_sort(vector<int> &unsorted_array)
 {
     int i, j, temp;
