@@ -4,7 +4,7 @@
 using std::cin;
 using std::cout;
 using std::swap;
-using std::vector;
+using std::vector; 
 
 void bubble_sort(vector<int> &unsorted_array, char type)
 {
