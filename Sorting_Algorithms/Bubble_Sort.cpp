@@ -37,7 +37,6 @@ int *bubble_sort_v1(int *array, int length, char type = 'I')
 /* Version 1 for bubble sorting ends */
 
 /* Version 2 for bubble sorting starts */
-
 void swap(int &a, int &b)
 {
     a = a + b;
@@ -68,6 +67,7 @@ vector<int> &bubble_sort_v2(vector<int> &array, char type = 'I')
     }
     return array;
 }
+/* Version 2 for bubble sorting ends */
 
 int main()
 {
