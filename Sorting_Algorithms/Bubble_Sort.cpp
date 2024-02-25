@@ -3,7 +3,7 @@
 using std::cin;
 using std::cout;
 using std::vector;
- 
+
 /* Version 1 for bubble sorting starts */
 void swap_v1(int *a, int *b)
 {
