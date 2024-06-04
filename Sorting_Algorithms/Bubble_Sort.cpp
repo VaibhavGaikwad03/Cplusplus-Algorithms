@@ -11,7 +11,7 @@ void swap_v1(int *a, int *b)
     (*b) = ((*a) - (*b));
     (*a) = ((*a) - (*b));
 }
-
+ 
 int *bubble_sort_v1(int *array, int length, char type = 'I')
 {
     int i, j;
